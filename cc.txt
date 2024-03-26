@@ -1,0 +1,3 @@
+cloud comptuing is future technology to build os and web service in online measn we access any where .
+cloud computing in three branch IAAS ,SAAS,PASS
+and three types cloud ias private ,public ,hybrild cloud
